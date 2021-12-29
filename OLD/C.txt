@@ -1,0 +1,142 @@
+Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1 ?
+rem = 3.14 % 2.1;
+rem = modf(3.14, 2.1);
+rem = fmod(3.14, 2.1);
+Remainder cannot be obtain in floating point division.
+rem = fmod(3.14, 2.1);
+
+What are the types of linkages?
+Internal and External
+External, Internal and None
+External and None
+Internal
+External, Internal and None
+
+Which of the following special symbol allowed in a variable name?
+* (asterisk)
+| (pipeline)
+- (hyphen)
+_ (underscore)
+_ (underscore)
+
+Is there any difference between following declarations? 1 :	extern int fun(); 2 :	int fun();
+Both are identical
+No difference, except extern int fun(); is probably in another file
+int fun(); is overrided with extern int fun();
+None of these
+No difference, except extern int fun(); is probably in another file
+
+How would you round off a value from 1.66 to 2.0?
+ceil(1.66)
+floor(1.66)
+roundup(1.66)
+roundto(1.66)
+ceil(1.66)
+
+By default a real number is treated as a
+float
+double
+long double
+far double
+double
+
+Is the following statement a declaration or definition?
+extern int i;
+Declaration
+Definition
+Function
+Error
+Declaration
+
+Identify which of the following are declarations 1 :	extern int x; 2 :	float square ( float x ) { ... } 3 :	double pow(double, double);
+1
+2
+1 and 3
+3
+1 and 3
+
+Which of the following is not user defined data type? 1 :	 long int l = 2.35; 2 :	enum day {Sun, Mon, Tue, Wed};
+1
+2
+none of the above
+Both 1 and 2
+2
+
+When we mention the prototype of a function?
+Defining
+Declaring
+Prototyping
+Calling
+Declaring
+
+Which of the following function sets first n characters of a string to a given character?
+strinit()
+strnset()
+strset()
+strcset()
+strnset()
+
+If the two strings are identical, then strcmp() function returns
+-1
+1
+0
+Yes
+0
+	
+How will you print \n on the screen?
+printf("\n");
+echo "\\n";
+printf('\n');
+printf("\\n");
+printf("\\n");
+
+	
+The library function used to find the last occurrence of a character in a string is
+strnstr()
+laststr()
+strrchr()
+strstr()
+strrchr()
+
+
+Which of the following function is used to find the first occurrence of a given string in another string?
+strchr()
+strrchr()
+strstr()
+strnset()
+strstr()
+
+In a file contains the line "I am a boy\r\n" then on reading this line into the array str using fgets(). What will str contain?
+"I am a boy\r\n\0"
+"I am a boy\r\0"
+"I am a boy\n\0"
+"I am a boy"
+"I am a boy\n\0"
+
+What will happen if in a C program you assign a value to an array element whose subscript exceeds the size of array?
+The element will be set to 0.
+The compiler would report an error.
+The program may crash if some important data gets overwritten.
+The array size would appropriately grow.
+The program may crash if some important data gets overwritten.
+
+What does the following declaration mean? int (*ptr)[10];
+ptr is array of pointers to 10 integers
+ptr is a pointer to an array of 10 integers
+ptr is an array of 10 integers
+ptr is an pointer to array
+ptr is a pointer to an array of 10 integers
+
+In C, if you pass an array as an argument to a function, what actually gets passed?
+Value of elements in array
+First element of the array
+Base address of the array
+Address of the last element of array
+Base address of the array
+
+What will the function rewind() do?
+Reposition the file pointer to a character reverse.
+Reposition the file pointer stream to end of file.
+Reposition the file pointer to begining of that line.
+Reposition the file pointer to begining of file.
+Reposition the file pointer to begining of file.

@@ -1,0 +1,140 @@
+Which of the following type of class allows only one object of it to be created?
+Virtual class
+Abstract class
+Singleton class
+Friend class
+Singleton class
+
+Which of the following is not a type of constructor?
+Copy constructor
+Friend constructor
+Default constructor
+Parameterized constructor
+Friend constructor
+
+Which of the following statements is correct?
+Base class pointer cannot point to derived class.
+Derived class pointer cannot point to base class.
+Pointer to derived class cannot be created.
+Pointer to base class cannot be created.
+Derived class pointer cannot point to base class.
+
+Which of the following is not the member of class?
+Static function
+Friend function
+Const function
+Virtual function
+Friend function
+
+Which of the following concepts means determining at runtime what method to invoke?
+Data hiding
+Dynamic Typing
+Dynamic binding
+Dynamic loading
+Dynamic binding
+
+Which of the following term is used for a function defined inside a class?
+Member Variable
+Member function
+Class function
+Classic function
+Member function
+
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+Call by value
+Call by reference
+Default arguments
+Call by pointer
+Default arguments
+
+	
+How many instances of an abstract class can be created?
+1
+5
+13
+0
+0
+
+Which of the following cannot be friend?
+Function
+Class
+Object
+Operator function
+Object
+
+Which of the following concepts of OOPS means exposing only necessary information to client?
+Encapsulation
+Abstraction
+Data hiding
+Data binding
+Data hiding
+
+Why reference is not same as a pointer?
+A reference can never be null.
+A reference once established cannot be changed.
+Reference doesn't need an explicit dereferencing mechanism.
+All of the above.
+All of the above.
+
+cout is a/an __________ .
+operator
+function
+object
+macro
+object
+
+Which of the following concepts provides facility of using object of one class inside another class?
+Encapsulation
+Abstraction
+Composition
+Inheritance
+Composition
+
+How many types of polymorphisms are supported by C++?
+1
+2
+3
+4
+2
+
+Which of the following is an abstract data type?
+int
+double
+string
+Class
+Class
+
+Which of the following concepts means adding new components to a program as it runs?
+Data hiding
+Dynamic typing
+Dynamic binding
+Dynamic loading
+Dynamic loading
+
+Which of the following statement is correct?
+A constructor is called at the time of declaration of an object.
+A constructor is called at the time of use of an object.
+A constructor is called at the time of declaration of a class.
+A constructor is called at the time of use of a class.
+A constructor is called at the time of declaration of an object.
+
+Which of the following correctly describes overloading of functions?
+Virtual polymorphism
+Transient polymorphism
+Ad-hoc polymorphism
+Pseudo polymorphism
+Ad-hoc polymorphism
+
+Which of the following approach is adapted by C++?
+Top-down
+Bottom-up
+Right-left
+Left-right
+Bottom-up
+
+Which of the following is correct about function overloading?
+The types of arguments are different.
+The order of argument is different.
+The number of argument is same.
+Both A and B.
+Both A and B.

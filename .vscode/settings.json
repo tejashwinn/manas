@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "calibri",
+        "cget",
         "clabel",
         "letsgo",
         "mlabel",
@@ -8,6 +9,7 @@
         "pady",
         "plabel",
         "relx",
-        "ulabel"
+        "ulabel",
+        "wlabel"
     ]
 }

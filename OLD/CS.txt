@@ -1,0 +1,172 @@
+From what location are the 1st computer instructions available on boot up?
+ROM BIOS
+CPU
+boot.ini
+CONFIG.SYS
+None of the above
+ROM BIOS
+
+What could cause a fixed disk error.
+No-CD installed
+bad ram
+slow processor
+Incorrect CMOS settings
+None of the above
+Incorrect CMOS settings
+
+Missing slot covers on a computer can cause?
+over heat
+power surges
+EMI.
+incomplete path for ESD
+None of the above
+over heat
+
+When installing PCI NICS you can check the IRQ availability by looking at
+dip switches
+CONFIG.SYS
+jumper settings
+motherboard BIOS
+None of the above
+motherboard BIOS
+
+With respect to a network interface card, the term 10/100 refers to
+protocol speed
+a fiber speed
+megabits per seconds
+minimum and maximum server speed
+None of the above
+megabits per seconds
+
+Which Motherboard form factor uses one 20 pin connector
+ATX
+AT
+BABY AT
+All of the above
+None of the above
+ATX
+
+A hard disk is divided into tracks which are further subdivided into:
+clusters
+sectors
+vectors
+heads
+None of the above
+sectors
+
+	
+A wrist grounding strap contains which of the following:
+Surge protector
+Capacitor
+Voltmeter
+Resistor
+None of the above
+Resistor
+
+Which standard govern parallel communications?
+RS232
+RS-232a
+CAT 5
+IEEE 1284
+None of the above
+IEEE 1284
+
+In laser printer technology, what happens during the conditioning stage?
+The corona wire places a uniform positive charge on the paper
+A uniform negative charge is placed on the photosensitive drum
+A uniform negative charge is placed on the toner
+All of the above
+None of the above
+A uniform negative charge is placed on the photosensitive drum
+
+	
+What product is used to clean smudged keys on a keyboard?
+TMC solvent
+Silicone spray
+Denatured alcohol
+All-purpose cleaner
+None of the above
+All-purpose cleaner
+
+ESD would cause the most damage to which component?
+Power supply
+Expansion board
+Monitor
+Keyboard
+None of the above
+Expansion board
+
+	
+To view any currently running Terminate Stay Resident (TSR's) programs you could type:
+Memory
+MEM
+SYS /M
+Memmaker
+None of the above
+MEM
+
+	
+Which type of system board is the MOST likely candidate for processor upgrading if you want maximum performance and future compatibility?
+ML
+PCI
+ISA
+EISA
+None of the above
+PCI
+
+Most PCs give a single beep on bootup to indicate they are ok hardware wise. You boot your PC and don't get a beep. What should you check first?
+system board
+RAM
+microprocessor
+power supply
+speaker
+speaker
+
+Which peripheral port provides the FASTEST throughput to laser printers?
+RS-232
+SCSI
+Parallel
+Serial
+None of the above
+Parallel
+
+The mouse pointer moves erratically, what is the possible cause? The mouse	
+ball is dirty
+is not connected
+driver is not installed properly
+has an incorrect IRQ setting
+None of the above
+ball is dirty
+
+Voltage is measured:
+in parallel
+in series
+after breaking the circuit
+after checking resistance
+after checking current
+in parallel
+
+The 34-pin connection on an I/O card is for?
+Floppy drive
+SCSI drive
+IDE drive
+Zip drive
+None of the above
+Floppy drive
+
+The terms "red book", "yellow book", and "orange book" refer to:
+SCSI
+ide
+floppy drive technology
+CD-ROM standards
+All of the above
+CD-ROM standards
+
+	
+On the 16-bit ISA bus, IRQ2 is elevated to which higher level Interrupt?
+9
+11
+13
+15
+None of the above
+9
