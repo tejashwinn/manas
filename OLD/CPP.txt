@@ -47,7 +47,6 @@ Default arguments
 Call by pointer
 Default arguments
 
-	
 How many instances of an abstract class can be created?
 1
 5

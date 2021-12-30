@@ -33,15 +33,14 @@ roundup(1.66)
 roundto(1.66)
 ceil(1.66)
 
-By default a real number is treated as a
+By default a real number is treated as a:
 float
 double
 long double
 far double
 double
 
-Is the following statement a declaration or definition?
-extern int i;
+Is the following statement a declaration or definition? extern int i;
 Declaration
 Definition
 Function
@@ -90,14 +89,12 @@ printf('\n');
 printf("\\n");
 printf("\\n");
 
-	
 The library function used to find the last occurrence of a character in a string is
 strnstr()
 laststr()
 strrchr()
 strstr()
 strrchr()
-
 
 Which of the following function is used to find the first occurrence of a given string in another string?
 strchr()
